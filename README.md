@@ -4,16 +4,16 @@ To install and run ShowCPU (tested on Ubuntu 16.04.03), please follow the instru
 
 1)	Install Qt from terminal: 
 
-wget http://download.qt.io/official_releases/qt/5.9/5.9.1/qt-opensource-linux-x64-5.9.1.run
+    wget http://download.qt.io/official_releases/qt/5.9/5.9.1/qt-opensource-linux-x64-5.9.1.run
 
-chmod +x qt-opensource-linux-x64-5.9.1.run
+    chmod +x qt-opensource-linux-x64-5.9.1.run
 
-./qt-opensource-linux-x64-5.9.1.run
+    ./qt-opensource-linux-x64-5.9.1.run
 
-More information on installing Qt is provided on https://wiki.qt.io/Install_Qt_5_on_Ubuntu.
+    More information on installing Qt is provided on https://wiki.qt.io/Install_Qt_5_on_Ubuntu.
 
 2)	Download the ShowCPU source code from GitHub
 
 3)	Build and run ShowCPU on your system:
 
-Open the “ShowCPU.proc” project file in Qt Creator. Click Build and Run or hit Ctrl+r, the application will start. Click on “Load CPU Information” to read /proc/cpuinfo and display the data. Moreover, an executable is created in the source-code directory. You can paste or move it locally to run the application again. 
+    Open the “ShowCPU.proc” project file in Qt Creator. Click Build and Run or hit Ctrl+r, the application will start. Click on “Load CPU Information” to read /proc/cpuinfo and display the data. Moreover, an executable is created in the source-code directory. You can paste or move it locally to run the application again. 
