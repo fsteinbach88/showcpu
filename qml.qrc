@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>data/BGImage.jpg</file>
+        <file>ReadmeWindow.qml</file>
+        <file>BtnStandard.qml</file>
+        <file>TxtField.qml</file>
+        <file>data/amd_logo_wiki.png</file>
+        <file>data/intel_logo_wiki.png</file>
+        <file>PropField.qml</file>
+    </qresource>
+</RCC>
